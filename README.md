@@ -17,6 +17,7 @@ Excel画像自動挿入ツール (VBA)
 ├── InsertVBA.xlsm         # VBAマクロが含まれるファイル（標準コード）
 ├── target.xlsx         # 画像を挿入する対象のExcelファイル
 └── [image_files].jpg   # サンプル画像ファイル (1.jpg, 2.jpg, 3.jpg)
+
 🛠 使い方
 このリポジトリをローカルPCにダウンロードします。
 画像ファイルとExcelファイルが同じフォルダにあることを確認してください。
@@ -26,7 +27,6 @@ target.xlsx の Sheet1 で結果を確認します。
 
 📝 標準コードの設定について
 コード内の定数を変更することで、簡単にカスタマイズが可能です：
-
 target.xlsx: 画像を挿入したいExcelファイルの名前。
 IMAGE_FILE_EXTENSION: 画像の拡張子（デフォルトは .jpg）。
 SIZE_FACTOR: セルに対する画像の倍率（0.98 = 98%）。
