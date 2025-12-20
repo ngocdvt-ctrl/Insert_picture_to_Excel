@@ -25,8 +25,8 @@ InsertMacro.xlsm を開きます。<br>
 INSERTボタンを押します。<br>
 target.xlsx の Sheet1 で結果を確認します。<br>
 
-📝 標準コードの設定について
-コード内の定数を変更することで、簡単にカスタマイズが可能です：
-target.xlsx: 画像を挿入したいExcelファイルの名前。
-IMAGE_FILE_EXTENSION: 画像の拡張子（デフォルトは .jpg）。
-SIZE_FACTOR: セルに対する画像の倍率（0.98 = 98%）。
+📝 標準コードの設定について<br>
+コード内の定数を変更することで、簡単にカスタマイズが可能です：<br>
+target.xlsx: 画像を挿入したいExcelファイルの名前。<br>
+IMAGE_FILE_EXTENSION: 画像の拡張子（デフォルトは .jpg）。<br>
+SIZE_FACTOR: セルに対する画像の倍率（0.98 = 98%）。<br>
