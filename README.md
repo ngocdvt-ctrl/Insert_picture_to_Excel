@@ -13,8 +13,8 @@ Excel画像自動挿入ツール (VBA)
 
 📁 フォルダ構成
 コードを正常に動作させるために、以下のようにファイルを配置してください：
-3_Insert_picture_to_Excel
-├── InsertVBA.xlsm         # VBAマクロが含まれるファイル（標準コード）
+Insert_picture_to_Excel(フォルダ)
+├── InsertVBA.xlsm      # VBAマクロが含まれるファイル（標準コード）
 ├── target.xlsx         # 画像を挿入する対象のExcelファイル
 └── [image_files].jpg   # サンプル画像ファイル (1.jpg, 2.jpg, 3.jpg)
 
